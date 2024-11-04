@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,#### CY - CYPRUS ####- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://45.95.114.34:195/EXTRA/EXTRA1.mp4
+#EXTINF:-1,CY| GROOVY TV- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/159734
+#EXTINF:-1,CY| MAD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/159735
+#EXTINF:-1,CY| MEGA- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/159736
+#EXTINF:-1,CY| RIK 1- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/159737
+#EXTINF:-1,CY| RIK SAT- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/159738
+#EXTINF:-1,CY| SIGMA TV HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/159741
+#EXTINF:-1,CY| ADA TV HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/400163586
+#EXTINF:-1,CY - SMILE HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/400253182
+#EXTINF:-1,CY - ALPHA HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/400253181
+#EXTINF:-1,CY - PLUS HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/400253180
+#EXTINF:-1,CY - CAPITAL HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/400253178
+#EXTINF:-1,CY - CABLETEN SPORT 2 HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/21001
+#EXTINF:-1,CY - CABLETEN SPORT 1 HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/21002
+#EXTINF:-1,CY - PRIMETEL SPORT 1 HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/21003
+#EXTINF:-1,CY - CYTA SPORT 2 HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/21004
+#EXTINF:-1,CY - CYTA SPORT 1 HD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/21005
+#EXTINF:-1,CY - CABLENET SPORT 3 FHD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/39410
+#EXTINF:-1,CY - PRIMETEL SPORTS 3 FHD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/39411
+#EXTINF:-1,CY - PRIMETEL SPORTS 2 FHD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/39412
+#EXTINF:-1,CY - CYTAVISION SPORTS 7 FHD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/39413
+#EXTINF:-1,CY - CYTAVISION SPORTS 6 FHD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/39414
+#EXTINF:-1,CY - CYTAVISION SPORTS 5 FHD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/39415
+#EXTINF:-1,CY - CYTAVISION SPORTS 4 FHD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/39416
+#EXTINF:-1,CY - CYTAVISION SPORTS 3 FHD- (►EU | CYPRUS)
+http://cwdw.streamtv.to:8080/gymmhs/123456/http://atlastv.in:88/MyLogin/MyPass/39417
