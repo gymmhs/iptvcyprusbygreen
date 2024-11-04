@@ -1,0 +1,95 @@
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1442.ts
+#EXTINF: -1, [USA|A&E FHD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1445.ts
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1444.ts
+#EXTINF: -1, |USA|5 Star Max
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/1446.ts
+#EXTINF: -1, |USA| UFC TV
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/394.ts
+#EXTINF: -1, |USA| Tennis Channel HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/395.ts
+#EXTINF: -1, [USA| NHL HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/398.ts
+#EXTINF: -1, |USA| NFL NETWORK HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/399.ts
+#EXTINF: -1, |USA| NEW ENGLAND SPORT NETWORK
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/393.ts
+#EXTINF: -1, |USA| NBA
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/397.ts
+#EXTINF: -1, |USA| MLB HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/396.ts
+#EXTINF: -1, |USA| FOX SPORT 2HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/383.ts
+#EXTINF: -1, |USA| FOX SPORT 1HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/382.ts
+#EXTINF: -1, IUSA| FOX DEPORTES
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/384.ts
+#EXTINF: -1, IUSA| ESPNEWS
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/385.ts
+#EXTINF: -1, |USA| ESPN U HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/390.ts
+#EXTINF: -1, |USA| ESPN Deportes
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/389.ts
+#EXTINF: -1, |USA| ESPN 3HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/388.ts
+#EXTINF: -1, |USA| ESPN 2HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/387.ts
+#EXTINF: -1, |USA| ESPN 1HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/386.ts
+#EXTINF: -1, |USA| CBS SPORTS NET
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/392.ts
+#EXTINF: -1, |USA| CBS SPORTS NET
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/391.ts
+#EXTINF: -1, |USA| beINSPORT US
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPR01/Y3puYbhjNn/381.ts
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CablenetSports1.cy" tvg-name="CY: CABLENET SPORT 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3024.jpg?ver=62545" group-title="CY| CYTAVISION VIP",CY: CABLENET SPORT 1 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842676
+
+#EXTINF:-1 tvg-id="CablenetSports2.cy" tvg-name="CY: CABLENET SPORT 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3024.jpg?ver=62545" group-title="CY| CYTAVISION VIP",CY: CABLENET SPORT 2 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842675
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CABLENET SPORT 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3024.jpg?ver=62545" group-title="CY| CYTAVISION VIP",CY: CABLENET SPORT 3 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842674
+
+#EXTINF:-1 tvg-id="CytavisionSports1.cy" tvg-name="CY: CYTAVISION SPORT 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 1 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842684
+
+#EXTINF:-1 tvg-id="CytavisionSports2.cy" tvg-name="CY: CYTAVISION SPORT 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 2 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842683
+
+#EXTINF:-1 tvg-id="CytavisionSports3.cy" tvg-name="CY: CYTAVISION SPORT 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 3 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842682
+
+#EXTINF:-1 tvg-id="CytavisionSports4.cy" tvg-name="CY: CYTAVISION SPORT 4 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 4 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842681
+
+#EXTINF:-1 tvg-id="CytavisionSports5.cy" tvg-name="CY: CYTAVISION SPORT 5 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 5 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842680
+
+#EXTINF:-1 tvg-id="CytavisionSports6.cy" tvg-name="CY: CYTAVISION SPORT 6 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 6 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842679
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CYTAVISION SPORT 7 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 7 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842678
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CYTAVISION SPORT 8 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 8 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/1118017
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CYTAVISION SPORT PREMIERE LEAGUE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3979.jpg?56008" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT PREMIERE LEAGUE ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842685
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CYTAVISION SPORT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT ᵁᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842677
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: OMONOIA TV ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13555.jpg?47738" group-title="CY| CYTAVISION VIP",CY: OMONOIA TV ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/892095
+
+#EXTINF:-1 tvg-id="" tvg-name="###### ΚΥΠΡΙΑΚΑ/CYPRUS ######" tvg-logo="" group-title="CY| ΚΥΠΡΙΑΚΑ/CYPRUS",###### ΚΥΠΡΙΑΚΑ/CYPRUS ######
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/460781
+
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="CY: ERT WORLD (NA)" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ERT-WORLD.png" group-title="CY| ΚΥΠΡΙΑΚΑ/CYPRUS",CY: ERT WORLD (NA)
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/460778
+
+#EXTINF:-1 tvg-id="Ant1.cy" tvg-name="CY: ANT1 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ANT1-.png" group-title="CY| ΚΥΠΡΙΑΚΑ/CYPRUS",CY: ANT1 ◉
